@@ -38,5 +38,12 @@ namespace Project_Management_System
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            StudentTsk rg = new StudentTsk();
+            rg.Show();
+        }
     }
 }

@@ -195,5 +195,10 @@ namespace Project_Management_System
         {
 
         }
+
+        private void txt_semester_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
